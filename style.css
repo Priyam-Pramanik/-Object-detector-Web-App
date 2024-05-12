@@ -1,0 +1,48 @@
+body{
+background-size: cover;
+}
+.heading{
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    background-color: aliceblue;
+    border-radius: 4px;
+    font-size: 20px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px white ;
+    color: black;
+}
+
+
+#obj1:hover{
+    font-size: 30px;
+    background-color: yellow;
+    transition: 0.4s;
+}
+#obj2:hover{
+    font-size: 30px;
+    background-color: red;
+    transition: 0.4s;
+
+}
+#obj3:hover{
+    font-size: 30px;
+    background-color:beige;
+    transition: 0.4s;
+}
+#obj4:hover{
+    font-size: 30px;
+    background-color: green;
+    transition: 0.4s;
+}
+#obj5:hover{
+    font-size: 30px;
+    background-color:cadetblue;
+    transition: 0.4s;
+}
+#obj6:hover{
+    font-size: 30px;
+    background-color:chartreuse;
+    transition: 0.4s;
+}
